@@ -1,0 +1,2 @@
+# auto-test
+CR exercise
